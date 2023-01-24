@@ -166,7 +166,7 @@ function scoreboard(callBackScore, callBackInning, numInnings) {
   let scorecard = [];
   let scores = {Inning: 0, Home: 0, Away: 0};
   for (let i = 1; i <= numInnings; i++) {
-    currentInning = callBackScore(callBackInning);
+    let currentInning = callBackScore(callBackInning);
     scorecard.push(`Inning ${i}: Home ${currentInning.Home} - Away ${currentInning.Away}`);
     scores.Inning = i;
     scores.Home += currentInning.Home;
