@@ -30,14 +30,14 @@ There are layers upon layers of nested functions within the game of baseball. Yo
 Using VSCode and Command Line:
 
 
-1. Fork the repo
-2. Go into canvas and connect your reop to codegrade
-3. Clone your forked version of the repo
+1. Fork the repo [x]
+2. Go into canvas and connect your reop to codegrade [x]
+3. Clone your forked version of the repo [x]
 4. DO NOT CREATE A BRANCH. You will be pushing your changes to the main/master today
-5. cd into your repo
-6. open the terminal in your vs code and type `npm install`
-7. next type `npm run test` in your terminal
-8. Complete your work making regular commits to main/ master your codegrade score will update each time you make a push.
+5. cd into your repo [x]
+6. open the terminal in your vs code and type `npm install` [x]
+7. next type `npm run test` in your terminal [x]
+8. Complete your work making regular commits to main/ master your codegrade score will update each time you make a push. [x]
 
 
 ### Task 2a - MVP code
